@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm Aryan Kushwaha — a Computer Science student who loves turning logic into code. Whether it’s solving LeetCode problems at 1AM or building random web apps just for fun, I enjoy learning new things and making stuff work.<br><br>Currently diving deep into Data Structures, Java, Python, and all things backend. Not trying to be the next Zuckerberg (okay, maybe a little 👀), but I do believe in building something that matters.<br>
+I'm Aryan Kushwaha — a Computer Science student who loves turning logic into code.
+Whether it’s solving LeetCode problems at 1AM or building random web apps just for fun, I enjoy learning new things and making stuff work.
+
+Currently diving deep into Data Structures, Java, Python, and all things backend. Not trying to be the next Zuckerberg (okay, maybe a little 👀), but I do believe in building something that matters.<br>
 
 
 # 💻 Tech Stack:
